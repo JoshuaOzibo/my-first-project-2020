@@ -1,3 +1,3 @@
-#My first clone website as a beginner 
+#My first clone website as a beginner;
 Website done with HTML, CSS, WITH SOME ICONS,
-with the use of media queries
+Made use of media queries;
